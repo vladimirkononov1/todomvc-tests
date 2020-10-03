@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@applitools/eyes-cypress": "^3.14.0",
+    "export": "^0.1.337"
+  },
+  "devDependencies": {
     "cypress": "^5.3.0"
   },
-  "devDependencies": {},
   "description": ""
 }
